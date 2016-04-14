@@ -20,3 +20,5 @@ class2obj.print_global()
 print "Enter Your Name: "
 name= gets()
 puts "Hello    #{name}"
+##########################################
+
